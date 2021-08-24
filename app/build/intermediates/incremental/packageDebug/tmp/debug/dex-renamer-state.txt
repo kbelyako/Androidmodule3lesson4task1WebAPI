@@ -1,0 +1,4 @@
+#Wed Aug 25 00:58:37 ALMT 2021
+base.0=D\:\\AndroidDev\\Module3\\Code\\Androidmodule3lesson4task1WebAPI\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
